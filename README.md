@@ -3,7 +3,7 @@
 ---
 
 ## 📊 Submission Components
-* 📄 **Final Technical Report:** [Click here to view 4104.pdf](./4104.pdf)
+📄 **Final Technical Report:** [Click here to view assignment-12110012.pdf](./assignment-12110012.pdf)
 * 💻 **Source Code Environment:** Production-ready independent modeling scripts located in [stat_4104_all_problems.py](./stat_4104_all_problems.py).
 * 📦 **Analytical Datasets:** Research cohorts matching the evaluation parameters included in the root folder.
 
